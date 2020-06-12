@@ -4,5 +4,6 @@ Purple
 Red 
 Blue 
 Green
+Yellow
 
 This are the colors of a rainbow
