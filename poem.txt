@@ -6,5 +6,6 @@ Blue
 Green
 Yellow
 Pink
+indigo
 
 This are the colors of a rainbow and the unicorn
